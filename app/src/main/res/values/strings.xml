@@ -3,4 +3,7 @@
     <string name="happybtn">I am happy</string>
     <string name="sadbtn">I am sad</string>
     <string name="txt">Tell us, how do you feel</string>
+    <string name="question">question</string>
+    <string name="feeling_happy">Feeling happy</string>
+    <string name="feeling_sad">Feeling sad</string>
 </resources>
